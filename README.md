@@ -1,6 +1,6 @@
 # Eae! Eu sou o Luiz 👾 
 
-Atualmente trabalhando como desenvolvedor jr. na Sponte e cursando ensino técnico em desenvolvimento de sistemas no SENAI! 
+Atualmente trabalhando cursando ensino técnico em desenvolvimento de sistemas! 
 
 ## 🚀 Skills
 
