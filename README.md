@@ -6,7 +6,7 @@ Atualmente trabalhando como desenvolvedor jr. na Sponte e cursando ensino técni
 
 🌐 Desenvolvedor WEB Jr.
   
-⚙ HTML | CSS | Visual Basic | ASP.NET | SQL
+⚙ HTML | CSS | React | JavaScript | TypeScript | SQL
 
 ## 💻 Github Stats
 <div>
