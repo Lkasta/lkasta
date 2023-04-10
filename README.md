@@ -6,7 +6,7 @@ Atualmente trabalhando cursando ensino técnico em desenvolvimento de sistemas!
 
 🌐 Desenvolvedor WEB Jr.
   
-⚙ HTML | CSS | React | JavaScript | TypeScript | SQL
+⚙ HTML | CSS | ReactJS | JavaScript | TypeScript | SQL
 
 ## 💻 Github Stats
 <div>
