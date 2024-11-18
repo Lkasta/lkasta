@@ -1,12 +1,10 @@
 # Eae! Eu sou o Luiz 👾 
 
-Atualmente trabalhando cursando ensino técnico em desenvolvimento de sistemas! 
-
 ## 🚀 Skills
 
-🌐 Desenvolvedor WEB Jr.
+🌐 Desenvolvedor Web 
   
-⚙ HTML | CSS | ReactJS | JavaScript | TypeScript | SQL
+⚙ React • TypeScript • Tailwind • SQL
 
 ## 💬 Contatos  
 
