@@ -1,7 +1,5 @@
 # Eae! Eu sou o Luiz 👾 
 
-## 🚀 Skills
-
 🌐 Desenvolvedor Web 
   
 ⚙ React • TypeScript • Tailwind • SQL
