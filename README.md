@@ -1,10 +1,10 @@
-# Eae! Eu sou o Luiz 👾 
+# i'm Luiz 👾 
 
-🌐 Desenvolvedor Web 
+🌐 Software Developer 
   
-⚙ React • TypeScript • Tailwind • SQL
+⚙ React | Python | Flask | TypeScript | JavaScript
 
-## 💬 Contatos  
+## 💬 Contacts  
 
 <div>
   <a href = "mailto:lkastabackup@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
