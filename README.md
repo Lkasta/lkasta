@@ -4,7 +4,7 @@
 
 <h3 align="left">Sobre mim</h2>
 
-<p align="left">✨ Full Stack Developer (React • TypeScript • Python • Flask)<br>📚 Aprimorando integração entre front e back, com foco em APIs REST e clean-code.<br>🎯 Construir em soluções completas e escaláveis, mantendo alta qualidade no UX e na estrutura do código.</p>
+<p align="left">✨ Full Stack Developer (React • TypeScript • Python • Flask)<br>📚 Aprimorando integrações entre front e back-end, com foco em APIs REST e clean-code.<br>🎯 Construir em soluções completas e escaláveis, mantendo alta qualidade no UX e na estrutura do código.</p>
 
 <h3 align="left">Técnologias mais utilizadas</h3>
 
